@@ -85,6 +85,15 @@ I also tried to do portrait drawings of a face I found on the internet. My first
 | ------- | ------- | ------- |
 | ![2019.01.08.02](imgs/2019.01.08.02.png) | ![2019.01.08.03](imgs/2019.01.08.03.png) | ![2019.01.08.04](imgs/2019.01.08.04.png) |
 
+| 2021.04 | 2024.05 | 2024.05 |
+| ------- | ------- | ------- |
+| ![2021-04-24.Hand](imgs/2021-04-24.Hand.jpg) | ![2024.05](imgs/2024.05.Dude.jpg) | ![2024.05](imgs/2024.05.Ghost.jpg) |
+
+| 2024.05 | 2024.05 |
+| ------- | ------- |
+| Olivia Holt | Alexandra Daddario |
+| ![Olivia Holt](imgs/2024.05.Olivia_Holt.jpg) | ![Alexandra Daddario](imgs/2024.05.Alexandra_Daddario.png) |
+
 ## Copyright
 
-These images are all &#169;2016-2024 Wagner Truppel.
+These images are all &#169;2016-2024 Wagner Truppel, except for the photos of faces.
